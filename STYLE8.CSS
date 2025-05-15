@@ -1,0 +1,365 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.border1{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+.border2{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding: 5px;
+}
+#nav{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    
+     padding-right:30px;
+     padding-left:30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 20px;
+}
+a:hover{
+    color: #00FF00;
+    text-decoration: underline;
+}
+#banner{
+    
+    display: flex;
+   height: ;
+    justify-content: center;
+    align-items: center;
+     width: 100%;
+    border: 1px solid black;
+}
+#banner1{
+    
+    width: 100%;
+}
+#banner2{
+        
+    width: 100%;
+    
+}
+#firstrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+}
+.img1{
+   
+    height: 320px;
+    
+}
+
+#secondrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+}
+
+#img6{
+    margin-left: 400px;
+    margin-right: 50px;
+}
+#thirdrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+}
+.img3{
+    height: 320px;
+    
+}
+#img13{
+    width: 100%;
+}
+#fourthrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+}
+.img4{
+    height: 320px;
+}
+.fifth{
+    border-width: 1px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    height: 350px;
+}
+#fifthrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+}
+.sixth{
+    border-width: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    height: 250px;
+    
+}
+#sixthrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+     
+     
+}
+#img23{
+    margin-left: 350px;
+}
+#img25{
+    margin-left: 350px;
+}
+
+.seventhrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+     position: center;
+}
+.seventh{
+    height: 320px;
+    position: center;
+}
+#img32{
+ width: 100%;
+}
+.eigthrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+}
+.eighth{
+    height: 320px;
+}
+#img38{
+    align-items: center;
+}
+.banner4{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+#BLACK{
+    height: 660px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    width: 500px;
+    text-align: left;
+    
+}
+.one{
+    border-radius: 25%;
+    height: 90px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.ninthrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: space-between;
+    justify-content: space-between;
+     padding-right:30px;
+     padding-left:30px;
+}
+.op{
+    text-align: center;
+}
+#img39{
+    width: 800px;
+
+}
+.banner5{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+#white1{
+    height: 600px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 500px;
+    text-align: left;
+}
+.two{
+    border-radius: 25%;
+    height: 90px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.text{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.last{
+    height: 350px;
+    width: 350px;
+    
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.last1{
+    height: 250px; 
+    width: 250px;
+    border-top-right-radius: 25%;
+    border-top-left-radius: 25%;
+    margin-left: 35px;
+    align-items: center;
+    
+}
+.footer{
+    display: flex;
+    border-radius: 25px;
+    border-style: solid;
+}
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: #000000;
+    font-family: Arial, sans-serif;
+  }
+
+  .footer {
+    background-color:#000;
+    padding: 40px 20px;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .footer-column {
+    flex: 1 1 200px;
+    margin: 20px;
+  }
+
+  .footer-column h4 {
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .footer-column ul li {
+    margin-bottom: 10px;
+  }
+
+  .footer-column ul li a {
+    color: #999;
+    text-decoration: none;
+  }
+
+  .footer-column ul li a:hover {
+    color: #fff;
+  }
+
+  .social-icons {
+    margin-top: 20px;
+    display: flex;
+    gap: 15px;
+  }
+
+  .social-icons a {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+  }
+
+  
+  .social-icons a i {
+    font-size: 24px;
+    color: #999;
+  }
+
+
+  .social-icons a:hover i {
+    color: #fff;
+  }
+
+  .para{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5pxpx;
+    font-size: 15px;
+    text-align: justify;
+  }
